@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4c0f5ff-fb6b-4bdf-bf0a-ceeba1fb7eca" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BtnListener.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DiffPilot.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LightDetect.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LineStop.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MotorControl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MotorMain.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ObjectDetect.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Sensors.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/TouchStop.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/UltrasoundShi.java" />
-    </list>
+    <list default="true" id="c4c0f5ff-fb6b-4bdf-bf0a-ceeba1fb7eca" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
